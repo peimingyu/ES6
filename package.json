@@ -1,0 +1,23 @@
+{
+  "name": "es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gitignore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peimingyu/ES6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peimingyu/ES6/issues"
+  },
+  "homepage": "https://github.com/peimingyu/ES6#readme",
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
